@@ -1,2 +1,3 @@
 # PISP
-Primjena inženjerskih softverskih paketa
+
+Ovo je repozitorija za predmet Primjena inženjerskih softverskih paketa (PISP).
