@@ -1,1 +1,1 @@
-X = nonzeros(C(1:2:end));
+X = nonzeros(C(1:2:end)));

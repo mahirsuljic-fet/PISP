@@ -29,6 +29,7 @@ function A=z3(x)
 
   subplot(1,2,1);
   imagesc(A);
+  yticks(4.5:-0.5:0.5);
   colormap hot;
 
   subplot(1,2,2);
