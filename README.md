@@ -1,8 +1,8 @@
 Primjena inžinjerskih softverskih paketa (PISP)
 ===============================================
 
-# [Vjezbe](./Vjezbe)
+## [Vjezbe](./Vjezbe)
 Laboratorijske vježbe i priprema za vježbe.
 
-# [Zadace](./Zadace)
+## [Zadace](./Zadace)
 Urađene zadaće.
