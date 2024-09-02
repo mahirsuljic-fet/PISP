@@ -1,3 +1,8 @@
-# PISP
+Primjena inžinjerskih softverskih paketa (PISP)
+===============================================
 
-Ovo je repozitorija za predmet Primjena inženjerskih softverskih paketa (PISP).
+# [Vjezbe](./Vjezbe)
+Laboratorijske vježbe i priprema za vježbe.
+
+# [Zadace](./Zadace)
+Urađene zadaće.
